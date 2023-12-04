@@ -1,0 +1,14 @@
+D:\Downloads\xunit-tests\Calc\bin\Debug\net8.0\Calc.exe
+D:\Downloads\xunit-tests\Calc\bin\Debug\net8.0\Calc.deps.json
+D:\Downloads\xunit-tests\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+D:\Downloads\xunit-tests\Calc\bin\Debug\net8.0\Calc.dll
+D:\Downloads\xunit-tests\Calc\bin\Debug\net8.0\Calc.pdb
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.dll
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\refint\Calc.dll
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.pdb
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+D:\Downloads\xunit-tests\Calc\obj\Debug\net8.0\ref\Calc.dll
